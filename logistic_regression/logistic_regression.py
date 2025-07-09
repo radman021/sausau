@@ -28,3 +28,11 @@ cm = confusion_matrix(y_test, y_pred)
 disp = ConfusionMatrixDisplay(confusion_matrix=cm, display_labels=iris.target_names)
 disp.plot(cmap="Blues")
 plt.show()
+
+# save model
+# with open(f"iris_model.pkl", "wb") as file:
+#     pickle.dump(model, file)
+
+# X_test[0] = [4.4 3.  1.3 0.2]
+# print(model.predict(X_test[0].reshape(1, -1)))
+# [0]
