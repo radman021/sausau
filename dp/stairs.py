@@ -1,5 +1,5 @@
 """
-Osobasepenje uz stepenice. U jednom skoku može da se
+Osoba se penje uz stepenice. U jednom skoku može da se
 preskoči 1, 2 ili 3 stepenika. Napisati algoritam koji
 određuje na koliko načina osoba može da pređe put koji
 se sastoji od n stepenika.

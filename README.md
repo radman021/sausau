@@ -1,4 +1,4 @@
-# SAUSAU – Vežbe
+# SAUSAU Vežbe
 
 Ovaj repozitorijum sadrži materijale sa vežbi iz predmeta **Softverski algoritmi u sistemima automatskog upravljanja** na trećoj godini studija Računarstva i automatike, Fakultet tehničkih nauka u Novom Sadu.
 
